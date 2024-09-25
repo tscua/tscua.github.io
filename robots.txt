@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tscua.github.io/JKs/sitemap.JKs.gz
